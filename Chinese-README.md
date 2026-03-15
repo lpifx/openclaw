@@ -475,7 +475,7 @@ ClawHub 是一个精简的技能注册表。启用 ClawHub 后，代理可自动
 - [macOS 菜单栏](https://docs.openclaw.ai/platforms/mac/menu-bar)
 - [macOS 语音唤醒](https://docs.openclaw.ai/platforms/mac/voicewake)
 - [iOS 节点](https://docs.openclaw.ai/platforms/ios)
-- [Android 节点](https://docs.openclaw.ai/platforms/android)
+## 平台内部实现
 - [Windows (WSL2)](https://docs.openclaw.ai/platforms/windows)
 - [Linux 应用](https://docs.openclaw.ai/platforms/linux)
 
